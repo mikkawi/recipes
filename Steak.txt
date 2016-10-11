@@ -1,0 +1,1 @@
+This is a new receipe, but don't have the details yet, just for the sake of learning Git :)
